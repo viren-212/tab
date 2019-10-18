@@ -1,0 +1,61 @@
+{
+	"headline": "Our Approach",
+	"tab": [
+		{
+			"title": {
+				"text": "Research"
+			},
+			"open": "true",
+			"content": {
+				"headline": "Research & Analytics",
+				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"url": "#",
+				"destination": "Details"
+			}
+		},
+		{
+			"title": {
+				"text": "Planning"
+			},
+			"content": {
+				"headline": "Planning",
+				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"url": "#",
+				"destination": "Details"
+			}
+		},
+		{
+			"title": {
+				"text": "Production"
+			},
+			"content": {
+				"headline": "Production",
+				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"url": "#",
+				"destination": "Details"
+			}
+		},
+		{
+			"title": {
+				"text": "Testing"
+			},
+			"content": {
+				"headline": "Testing",
+				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"url": "#",
+				"destination": "Details"
+			}
+		},
+		{
+			"title": {
+				"text": "Result"
+			},
+			"content": {
+				"headline": "Result",
+				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"url": "#",
+				"destination": "Details"
+			}
+		}
+	]
+}
