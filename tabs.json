@@ -5,7 +5,7 @@
 			"title": {
 				"text": "Research"
 			},
-			"open": "true",
+			"open": true,
 			"content": {
 				"headline": "Research & Analytics",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
@@ -22,7 +22,8 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details"
-			}
+			},
+			"open": false
 		},
 		{
 			"title": {
@@ -33,7 +34,8 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details"
-			}
+			},
+			"open": false
 		},
 		{
 			"title": {
@@ -44,7 +46,8 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details"
-			}
+			},
+			"open": false
 		},
 		{
 			"title": {
@@ -55,7 +58,8 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details"
-			}
+			},
+			"open": false
 		}
 	]
 }
