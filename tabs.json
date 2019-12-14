@@ -5,7 +5,7 @@
 			"title": {
 				"text": "Research"
 			},
-			"open": true,
+			"open": false,
 			"content": {
 				"headline": "Research & Analytics",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
@@ -46,9 +46,10 @@
 				"headline": "Testing",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
-				"destination": "Details"
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
 			},
-			"open": false
+			"open": true
 		},
 		{
 			"title": {
